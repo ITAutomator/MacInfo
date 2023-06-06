@@ -1,7 +1,7 @@
 # Mac Info
 Tells you a bunch of information about your mac device
 
-Download the comp_info.sh file here. <br>
+Download the comp_info.sh file [here](https://github.com/ITAutomator/mac_info/blob/main/comp_info.sh). <br>
 Save the file anywhere you would like but somewhere easy to access. <br>
 Open the terminal on your device ___spotlight>”terminal___” <br>
 Run this command in the terminal ___cd ~/path/to/directory___ <br>
