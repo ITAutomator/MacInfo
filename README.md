@@ -10,5 +10,3 @@ ___cd ~/Desktop/scripts___ <br>
 After, run this command in the terminal ___chmod +x comp_info.sh___ <br>
 To run the script, enter ___bash comp_info.sh___ in the terminal <br>
 
-If you want the output to be a text file <br>
-Enter ___./comp_info.sh > output.txt___ in your terminal, and it will make a text file in the same folder the comp_info file is in.
