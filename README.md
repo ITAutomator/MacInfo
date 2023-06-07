@@ -9,4 +9,4 @@ For example, if you downloaded the file on your desktop in a subfolder called sc
 ___cd ~/Desktop/scripts___ <br>
 After, run this command in the terminal ___chmod +x comp_info.sh___ <br>
 To run the script, enter ___bash comp_info.sh___ in the terminal <br>
-
+Look for a txt file located in the same folder as comp_info 
