@@ -1,12 +1,31 @@
+
+
 # Mac Info
+
+## Overview
 Tells you a bunch of information about your mac device
 
-Download the comp_info.sh file [here](https://github.com/ITAutomator/mac_info/blob/main/comp_info.sh). <br>
-Save the file anywhere you would like but somewhere easy to access. <br>
-Open the terminal on your device ___spotlight>”terminal___” <br>
-Run this command in the terminal ___cd ~/path/to/directory___ <br>
-For example, if you downloaded the file on your desktop in a subfolder called scripts, the command would look like this <br> 
-___cd ~/Desktop/scripts___ <br>
-After, run this command in the terminal ___chmod +x comp_info.sh___ <br>
-To run the script, enter ___bash comp_info.sh___ in the terminal <br>
-Look for a txt file located in the same folder as comp_info 
+### To Run
+> Important: DO NOT RUN RANDOM CODE FROM THE INTERNET. Yes, that's what
+> you are doing here. Make sure you know what the code contains. Also,
+> in a managed environment, these actions my ring alarm bells.
+1. Download the **comp_info.sh** file [here](https://github.com/ITAutomator/mac_info/blob/main/comp_info.sh). 
+Save the file to your desktop
+
+2. Open the terminal on your device<br>
+Click the **Spotlight** icon (top right corner) and Type "terminal"<br>
+Open the app called **Terminal**
+
+4. Change directory to your Desktop folder
+
+       cd ~/Desktop/scripts
+
+5. Adjust the script so it can be executed (run)
+
+       chmod +x comp_info.sh
+ 
+6. Run the script
+
+       bash comp_info.sh
+
+7. Look for your report (a **txt** file) in the same folder
