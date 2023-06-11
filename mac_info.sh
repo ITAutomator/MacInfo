@@ -1,7 +1,13 @@
 #!/bin/bash
+###################################
+# mac_info.sh
+#
+# Gets key info about your mac
+# https://github.com/ITAutomator/MacInfo#readme
+#
+###################################
 
-
-#exec > "$(dirname "$0")/output.txt"
+#exec > "$(dirname "$0")/mac_info.txt"
 
 # Get the IP address
 ip_address=$(ifconfig en0 | awk '/inet / {print $2}')
