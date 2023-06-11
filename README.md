@@ -1,6 +1,5 @@
-
-
 # Mac Info
+<img width="435" alt="Screenshot-2023-06-09-at-3 02 15-PM" src="https://github.com/ITAutomator/MacInfo/assets/135157036/a0a0c97d-b90c-4c12-9e56-a13bb928f38b">
 
 ## Overview
 Tells you a bunch of information about your mac device
